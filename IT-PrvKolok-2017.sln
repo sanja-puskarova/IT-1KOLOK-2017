@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT-PrvKolok-2017", "IT-PrvKolok-2017\IT-PrvKolok-2017.csproj", "{2B900559-8A9E-4097-A503-C42260B8F66C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "slika", "slika", "{45AFFF57-07BD-44EC-AD33-E78F60DC486D}"
+	ProjectSection(SolutionItems) = preProject
+		IT-PrvKolok-2017\635909140777574051-183397971_the-movies-logo-1[1].gif = IT-PrvKolok-2017\635909140777574051-183397971_the-movies-logo-1[1].gif
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B900559-8A9E-4097-A503-C42260B8F66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B900559-8A9E-4097-A503-C42260B8F66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B900559-8A9E-4097-A503-C42260B8F66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B900559-8A9E-4097-A503-C42260B8F66C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B900559-8A9E-4097-A503-C42260B8F66C} = {45AFFF57-07BD-44EC-AD33-E78F60DC486D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {212CA71C-C2CF-455F-8B65-CA862F8122E1}
+	EndGlobalSection
+EndGlobal
